@@ -6,7 +6,7 @@ title: Evangelos Pistolas's CV
 Electrical and Computer Engineer.
 
 <div id="webaddress">
-<a href="github.com/vpistola">github account</a>
+<a href="https://www.github.com/vpistola">github account</a>
 | <a href="#">mobile: +306946237595</a>
 </div>
 
