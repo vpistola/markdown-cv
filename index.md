@@ -67,25 +67,26 @@ __Web Programming, TA, Democritus University of Thrace.__
 `Fall 2015`
 __Operating Systems, TA, Democritus University of Thrace.__
 
-`Fall 2015`
+`Fall 2012`
 __Object Oriented Programming, TA, Democritus University of Thrace.__
 
 
 
 ## Certifications
 
-`Deep Learning Specialization`
+__Deep Learning Specialization:__
 An online non-credit specialization authorized by deeplearning.ai and offered through Coursera
 
-`Getting started with TensorFlow 2`
+__Getting started with TensorFlow 2:__
 An online non-credit course authorized by Imperial College London and offered through Coursera
 
 
 
 ## Technical Expertise
 
-`Software Development`
-PHP, C#, .NET, ASP.NET, Javascript, jQuery, SQL, MySQL, Web APIs, Entity Framework, WordPress, Python, Flask, HTML, CSS, Shell Scripting 
+__Software Development__
+
+- PHP, C#, .NET, ASP.NET, Javascript, jQuery, SQL, MySQL, Web APIs, Entity Framework, WordPress, Python, Flask, HTML, CSS, Shell Scripting 
 
 `Relational Databases`
 Design and deployment of database systems across a broad range of technologies (Microsoft SQL Server, MySQL)
