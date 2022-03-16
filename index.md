@@ -20,18 +20,15 @@ My interests also includes application containerization, container orchestration
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006-2008`
+__MSc in System engineering and Management, Democritus University of Thrace, Xanthi, GR.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2008`
+__Proficiency in English, Michigan University.__
 
-- Sizar
+`2001-2006`
+__MEng in Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, GR.__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 ## Professional Employment
