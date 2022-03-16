@@ -6,8 +6,8 @@ title: Evangelos Pistolas's CV
 Electrical and Computer Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="github.com/vpistola">github account</a>
+| <a href="#">mobile: +306946237595</a>
 </div>
 
 
@@ -38,17 +38,17 @@ __DevOps Engineer, Athena Research and Innovation Center__
 
 - DevOps Engineer with the role of designing, developing and deploying web applications and services across a broad range of technologies (PHP, JavaScript, MySQL, Python). The services are containerized using the Docker software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
 
-`November 2020 – May 2021`
+`Nov 2020 – May 2021`
 __Infrustructure Engineer, SEKE SA__
 
 - Infrustrure Engineer at SEKE SA, responsible for the administration of a network of ESXi hypervisors, database servers (MS SQL and MySQL) and application servers for the ERP systems spanning 4 countries.
 
-`November 2017 – November 2020`
+`Nov 2017 – Nov 2020`
 __Principal Systems and Software Engineer, Alexander Beach Hotel and Spa__
 
 - Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
 
-`March 2009 – November 2017`
+`Mar 2009 – Nov 2017`
 __Software and Systems Engineer, Self Employed__
 
 - Software and Systems Engineer working on software design and development as well as systems analysis, design, implementation and administration.
@@ -84,27 +84,33 @@ An online non-credit course authorized by Imperial College London and offered th
 
 ## Technical Expertise
 
-__Software Development__
+__Software Development:__
 
 - PHP, C#, .NET, ASP.NET, Javascript, jQuery, SQL, MySQL, Web APIs, Entity Framework, WordPress, Python, Flask, HTML, CSS, Shell Scripting 
 
-`Relational Databases`
-Design and deployment of database systems across a broad range of technologies (Microsoft SQL Server, MySQL)
+__Relational Databases:__
 
-`DevOps Technologies`
-Kubernetes, Docker, Github, GitLab
+- Design and deployment of database systems across a broad range of technologies (Microsoft SQL Server, MySQL)
 
-`Deep Learning frameworks`
-TensorFlow, Keras
+__DevOps Technologies:__
 
-`Networking`
-CCNA, L2 protocols, L3 protocols (ospf, bgp), network architecture and security, cisco technologies design and deployment
+- Kubernetes, Docker, Github, GitLab
 
-`Infastructure Technologies`
-Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco
+__Deep Learning frameworks:__
 
-`Computer and Network Security`
-Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies, Digital Forensics
+- TensorFlow, Keras
+
+__Networking:__
+
+- CCNA, L2 protocols, L3 protocols (ospf, bgp), network architecture and security, cisco technologies design and deployment
+
+__Infastructure Technologies:__
+
+- Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco
+
+__Computer and Network Security:__
+
+- Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies, Digital Forensics
 
 
 
