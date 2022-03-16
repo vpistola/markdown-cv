@@ -14,6 +14,7 @@ Electrical and Computer Engineer.
 ## About
 
 Electrical and Computer engineer with over 10 years of experience focused in designing and deploying database applications and computational systems.
+
 My interests also includes application containerization, container orchestration and cloud technologies designing and deployment.
 
 ### Education
