@@ -33,7 +33,9 @@ __MEng in Electrical and Computer Engineering, Democritus University of Thrace, 
 
 ## Professional Employment
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`July 2021 - present`
+DevOps Engineer, Athena Research and Innovation Center
+DevOps Engineer with the role of designing, developing and deploying web applications and services across a broad range of technologies (PHP, JavaScript, MySQL, Python). The services are containerized using the Docker software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
 
 
 ## Teaching
