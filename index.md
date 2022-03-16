@@ -17,7 +17,8 @@ Electrical and Computer engineer with over 10 years of experience focused in des
 
 My interests also includes application containerization, container orchestration and cloud technologies designing and deployment.
 
-### Education
+
+## Education
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -33,7 +34,7 @@ __Trinity College, Cambridge__
 - Fellow
 
 
-### Professional Employment
+## Professional Employment
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
