@@ -35,8 +35,28 @@ __MEng in Electrical and Computer Engineering, Democritus University of Thrace, 
 
 `July 2021 - present`
 __DevOps Engineer, Athena Research and Innovation Center__
+
 - DevOps Engineer with the role of designing, developing and deploying web applications and services across a broad range of technologies (PHP, JavaScript, MySQL, Python). The services are containerized using the Docker software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
 
+`November 2020 – May 2021`
+__Infrustructure Engineer, SEKE SA__
+
+- Infrustrure Engineer at SEKE SA, responsible for the administration of a network of ESXi hypervisors, database servers (MS SQL and MySQL) and application servers for the ERP systems spanning 4 countries.
+
+`November 2017 – November 2020`
+__Principal Systems and Software Engineer, Alexander Beach Hotel and Spa__
+
+- Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (\Csharp, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
+
+`March 2009 – November 2017`
+__Software and Systems Engineer, Self Employed__
+
+- Software and Systems Engineer working on software design and development as well as systems analysis, design, implementation and administration.
+- More specifically:
+ - Contract with the Democritus University of Thrace as part of the SPICE research program with the object of providing technical services about the design, deployment, administration and security of the program’s computing systems,
+ - Contract with the Democritus University of Thrace with the object of providing technical services in the Network Operations Center,
+ - Contract with a luxury hotel in the city of Alexandroupolis responsible for developing software tools in order to integrate the information from the various systems of the hotel into the main ERP system,
+ - Software design and development projects in the hospitality domain using a broad range of Microsoft technologies (\Csharp, .NET, SQL Server).
 
 ## Teaching
 
