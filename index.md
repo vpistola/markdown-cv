@@ -3,11 +3,13 @@ layout: cv
 title: Evangelos Pistolas's CV
 ---
 # Evangelos Pistolas
-Electrical and Computer Engineer.
+Electrical and Computer Engineer
+Apollonos 4, 67132, Xanthi, GR
 
-<div id="webaddress">
+<div id="webaddress"> 
 <a href="https://www.github.com/vpistola">github account</a>
 | <a href="#">mobile: +306946237595</a>
+| <a href="#">skype: evangelos.pistolas</a>   
 </div>
 
 
