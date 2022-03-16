@@ -58,10 +58,11 @@ __Trinity College, Cambridge__
 
 ## Certifications
 
-`2012`
-President, *Royal Society*, London, UK
+`Deep Learning Specialization`
+An online non-credit specialization authorized by deeplearning.ai and offered through Coursera
 
-Associate, *French Academy of Science*, Paris, France
+`Getting started with TensorFlow 2`
+An online non-credit course authorized by Imperial College London and offered through Coursera
 
 
 
@@ -79,11 +80,11 @@ Kubernetes, Docker, Github, GitLab
 `Deep Learning frameworks`
 TensorFlow, Keras
 
-`Networking Administration`
+`Networking`
 CCNA, L2 protocols, L3 protocols (ospf, bgp), network architecture and security, cisco technologies design and deployment
 
-`Infastructure Management`
-Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS
+`Infastructure Technologies`
+Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco
 
 `Computer and Network Security`
 Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies, Digital Forensics
