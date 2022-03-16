@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Evangelos Pistolas's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Evangelos Pistolas
+Electrical and Computer Engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,21 +11,33 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## About
 
-Standing on the shoulders of giants
+Electrical and Computer engineer with over 10 years of experience focused in designing and deploying database applications and computational systems.
+My interests also includes application containerization, container orchestration and cloud technologies designing and deployment.
 
-### Specialized in
+### Education
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`1654-1660`
+__The King's School, Grantham.__
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
 
 
-### Research interests
+### Professional Employment
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Teaching
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -42,7 +54,7 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Certifications
 
 `2012`
 President, *Royal Society*, London, UK
@@ -51,11 +63,7 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
+## Technical Expertise
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -64,23 +72,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
