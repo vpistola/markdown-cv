@@ -67,13 +67,26 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Technical Expertise
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Software Development`
+PHP, C#, .NET, ASP.NET, Javascript, jQuery, SQL, MySQL, Web APIs, Entity Framework, WordPress, Python, Flask, HTML, CSS, Shell Scripting 
 
-`1669`
-Lectiones opticæ.
+`Relational Databases`
+Design and deployment of database systems across a broad range of technologies (Microsoft SQL Server, MySQL)
 
-etc. etc. etc.
+`DevOps Technologies`
+Kubernetes, Docker, Github, GitLab
+
+`Deep Learning frameworks`
+TensorFlow, Keras
+
+`Networking Administration`
+CCNA, L2 protocols, L3 protocols (ospf, bgp), network architecture and security, cisco technologies design and deployment
+
+`Infastructure Management`
+Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS
+
+`Computer and Network Security`
+Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies, Digital Forensics
 
 
 
