@@ -46,32 +46,29 @@ __Infrustructure Engineer, SEKE SA__
 `November 2017 – November 2020`
 __Principal Systems and Software Engineer, Alexander Beach Hotel and Spa__
 
-- Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (\Csharp, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
+- Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
 
 `March 2009 – November 2017`
 __Software and Systems Engineer, Self Employed__
 
 - Software and Systems Engineer working on software design and development as well as systems analysis, design, implementation and administration.
 - More specifically:
- - Contract with the Democritus University of Thrace as part of the SPICE research program with the object of providing technical services about the design, deployment, administration and security of the program’s computing systems,
- - Contract with the Democritus University of Thrace with the object of providing technical services in the Network Operations Center,
- - Contract with a luxury hotel in the city of Alexandroupolis responsible for developing software tools in order to integrate the information from the various systems of the hotel into the main ERP system,
- - Software design and development projects in the hospitality domain using a broad range of Microsoft technologies (\Csharp, .NET, SQL Server).
+  1. Contract with the Democritus University of Thrace as part of the SPICE research program with the object of providing technical services about the design, deployment, administration and security of the program’s computing systems,
+  2. Contract with the Democritus University of Thrace with the object of providing technical services in the Network Operations Center,
+  3. Contract with a luxury hotel in the city of Alexandroupolis responsible for developing software tools in order to integrate the information from the various systems of the hotel into the main ERP system,
+  4. Software design and development projects in the hospitality domain using a broad range of Microsoft technologies (C#, .NET, SQL Server).
+
 
 ## Teaching
 
-`1654-1660`
-__The King's School, Grantham.__
+`Fall 2015`
+__Web Programming, TA, Democritus University of Thrace.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Fall 2015`
+__Operating Systems, TA, Democritus University of Thrace.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Fall 2015`
+__Object Oriented Programming, TA, Democritus University of Thrace.__
 
 
 
