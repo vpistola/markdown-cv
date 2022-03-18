@@ -18,7 +18,7 @@ Apollonos 4, 67132, Xanthi, GR
 
 Electrical and Computer engineer with over 10 years of experience focused in designing and deploying database applications and computational systems.
 
-My interests also includes application containerization, container orchestration and cloud technologies designing and deployment.
+My interests also includes application containerization (docker), orchestration (kubernetes) and cloud solutions design and deployment.
 
 
 ## Education
@@ -42,17 +42,17 @@ __DevOps Engineer, Athena Research and Innovation Center__
 - DevOps Engineer with the role of designing, developing and deploying web applications and services across a broad range of technologies (PHP, JavaScript, MySQL, Python). The services are containerized using the Docker software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
 
 `Nov 2020 – May 2021`
-__Infrustructure Engineer, SEKE SA__
+__Operations Engineer, SEKE SA__
 
 - Infrustrure Engineer at SEKE SA, responsible for the administration of a network of ESXi hypervisors, database servers (MS SQL and MySQL) and application servers for the ERP systems spanning 4 countries.
 
 `Nov 2017 – Nov 2020`
-__Principal Systems and Software Engineer, Alexander Beach Hotel and Spa__
+__Principal Operations and Software Engineer, Alexander Beach Hotel and Spa__
 
 - Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
 
 `Mar 2009 – Nov 2017`
-__Software and Systems Engineer, Self Employed__
+__Software and Operations Engineer, Self Employed__
 
 - Software and Systems Engineer working on software design and development as well as systems analysis, design, implementation and administration.
 - More specifically:
@@ -87,17 +87,17 @@ An online non-credit course authorized by Imperial College London and offered th
 
 ## Technical Expertise
 
-__Software Development:__
+__Programming:__
 
 - PHP, C#, .NET, ASP.NET, Javascript, jQuery, SQL, MySQL, Web APIs, Entity Framework, WordPress, Python, Flask, HTML, CSS, Shell Scripting 
 
-__Relational Databases:__
+__RDS:__
 
 - Design and deployment of database systems across a broad range of technologies (Microsoft SQL Server, MySQL)
 
-__DevOps Technologies:__
+__Operations:__
 
-- Kubernetes, Docker, Github, GitLab
+- Kubernetes, Docker, Github, GitLab, Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco 
 
 __Deep Learning frameworks:__
 
@@ -105,20 +105,16 @@ __Deep Learning frameworks:__
 
 __Networking:__
 
-- CCNA, L2 protocols, L3 protocols (ospf, bgp), network architecture and security, cisco technologies design and deployment
-
-__Infastructure Technologies:__
-
-- Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco
+- CCNA, Design, Deployment, Monitoring, Security, L2 protocols, L3 protocols (ospf, bgp)
 
 __Computer and Network Security:__
 
-- Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies, Digital Forensics
+- Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
