@@ -39,7 +39,7 @@ __MEng in Electrical and Computer Engineering, Democritus University of Thrace, 
 `July 2021 - present`
 __DevOps Engineer, Athena Research and Innovation Center__
 
-- DevOps Engineer with the role of designing, developing and deploying web applications and services across a broad range of technologies (PHP, JavaScript, MySQL, Python). The services are containerized using the Docker software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
+- DevOps Engineer focused in designing, developing and deploying web applications and services. For the developing, we leverage open source technologies like PHP, JavaScript, MySQL and Python. The services are containerized using the Docker open source software and deployed in a Kubernetes cluster from which are exposed through an Ingress controller to the public domain.
 
 `Nov 2020 – May 2021`
 __Operations Engineer, SEKE SA__
