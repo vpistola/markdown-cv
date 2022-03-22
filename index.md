@@ -44,12 +44,12 @@ __DevOps Engineer, Athena Research and Innovation Center__
 `Nov 2020 – May 2021`
 __Operations Engineer, SEKE SA__
 
-- Infrustrure Engineer at SEKE SA, responsible for the administration of a network of ESXi hypervisors, database servers (MS SQL and MySQL) and application servers for the ERP systems spanning 4 countries.
+- Operations Engineer at SEKE SA, responsible for the administration of a network of ESXi hypervisors, database servers (MS SQL and MySQL) and application servers for the ERP systems spanning 4 countries.
 
 `Nov 2017 – Nov 2020`
 __Principal Operations and Software Engineer, Alexander Beach Hotel and Spa__
 
-- Principal Systems and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
+- Principal Operations and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
 
 `Mar 2009 – Nov 2017`
 __Software and Operations Engineer, Self Employed__
@@ -97,7 +97,7 @@ __RDS:__
 
 __Operations:__
 
-- Kubernetes, Docker, Github, GitLab, Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco 
+- Kubernetes, Docker, Github, GitLab, Linux, BSD, Windows, Bind, Unbound, NSD, Nginx, IIS, Cisco, ESXi, Microsoft Hyperv, Exchange Server 
 
 __Deep Learning frameworks:__
 
@@ -109,7 +109,7 @@ __Networking:__
 
 __Computer and Network Security:__
 
-- Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security technologies
+- Unix/Cisco/Windows Operating System Hardening, Cryptography, Cisco/Linux/Sophos/Mikrotik network security operations
 
 
 
