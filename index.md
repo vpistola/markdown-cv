@@ -49,7 +49,7 @@ __Operations Engineer, SEKE SA__
 `Nov 2017 – Nov 2020`
 __Principal Operations and Software Engineer, Alexander Beach Hotel and Spa__
 
-- Principal Operations and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
+- Principal Operations and Software Engineer at a luxury hotel in the city of Alexandroupolis responsible for the software development across a broad range of Microsoft technologies (C#, .NET framework, ASP.NET, Web API, SQL Server) and for the administration and security of the Enterprise Systems (Microsoft Hyper-V virtualization, Windows Server 2012, Linux servers, Microsoft Exchange Server, Cisco, HP, Mikrotik, Sophos security appliance, Softone ERP solution, HIT Hospitality solutions, Alcatel VoIP call center).
 
 `Mar 2009 – Nov 2017`
 __Software and Operations Engineer, Self Employed__
